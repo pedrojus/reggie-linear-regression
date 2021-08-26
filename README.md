@@ -1,3 +1,4 @@
+# Project: *Linear Regression*
 
 **Project: Linear Regression** is a Python program that calculates the line of best fit by using the slope-intercept form formula.
 
